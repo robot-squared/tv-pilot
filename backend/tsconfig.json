@@ -3,5 +3,5 @@
     "target": "ESNext",
     "lib": ["DOM", "ES2017"]
   },
-  "include": ["**/*.ts"]
+  "include": ["**/**.ts"]
 }
